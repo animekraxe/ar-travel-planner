@@ -36,7 +36,7 @@ import android.opengl.Matrix;
 public class SampleApplicationSession implements UpdateCallbackInterface
 {
     
-    private static final String LOGTAG = "Vuforia_Sample_Applications";
+    private static final String LOGTAG = "Vuforia_Sample_Apps";
     
     // Reference to the current activity
     private Activity mActivity;
