@@ -22,8 +22,7 @@ public class MovableObject
 
     private Vec3F position = new Vec3F(0, 0, 0);
 
-    private float boundingRadius = 11
-    0.0f;
+    private float boundingRadius = 110.0f;
 
     private String imageTarget;
 
